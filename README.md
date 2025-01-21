@@ -10,4 +10,5 @@ Regulatory Compliance – The FCC has mandated that all SAS administrators must 
 This system is critical for dynamic spectrum sharing, balancing federal and commercial use of the mid-band spectrum, which is essential for 5G and other wireless services.
 
 To run 
-```python3 tardys3_generator.py.
+```python
+python3 tardys3_generator.py.
