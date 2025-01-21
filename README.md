@@ -11,4 +11,4 @@ This system is critical for dynamic spectrum sharing, balancing federal and comm
 
 To run 
 ```python
-python3 tardys3_generator.py.
+python3 tardys3_generator.py
