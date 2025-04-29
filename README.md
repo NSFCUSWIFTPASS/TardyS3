@@ -9,6 +9,12 @@ Protection of Military Operations – It ensures military testing and operations
 Regulatory Compliance – The FCC has mandated that all SAS administrators must transition from the manual system to TARDyS3.
 This system is critical for dynamic spectrum sharing, balancing federal and commercial use of the mid-band spectrum, which is essential for 5G and other wireless services.
 
-To run 
+## Installation
+```
+pip install tardys3-generator
+```
+
+To run from source
 ```python
 python3 tardys3_generator.py
+```

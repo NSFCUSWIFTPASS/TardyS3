@@ -1,0 +1,4 @@
+jsonschema>=4.0.0
+tk
+setuptools
+tkcalendar>=1.6.1
